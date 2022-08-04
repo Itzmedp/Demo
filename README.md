@@ -1,2 +1,2 @@
 # Demo
-Sample description text
+Sample description text.
